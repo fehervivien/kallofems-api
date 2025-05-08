@@ -1,1 +1,1 @@
-web: scrapyrt --host 0.0.0.0 --port $PORT
+web: scrapyrt -i 0.0.0.0 -p $PORT
