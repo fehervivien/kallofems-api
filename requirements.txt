@@ -1,3 +1,5 @@
 Scrapy>=2.8.0
-scrapy-playwright
-scrapyrt
+scrapy-playwright>=0.0.25
+scrapyrt>=0.14
+playwright>=1.30
+

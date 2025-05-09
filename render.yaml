@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: kallofems
+    env: python
+    buildCommand: pip install -r requirements.txt && playwright install
+    startCommand: bash start.sh
+
